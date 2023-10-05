@@ -1,8 +1,8 @@
 # David Garcia's ePortfolio
 
-##Professional Self Assessment
+## Professional Self Assessment
 Placeholder text
 
-##Code Review
+## Code Review
 Code Review link here
 
