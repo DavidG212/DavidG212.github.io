@@ -7,7 +7,7 @@ Placeholder text
 Code Review link here
 
 ## Artifact One: Software Design and Engineering
-<a href="[https://github.com/DavidG212/Davids_ePortfolio/tree/main/Artifact%20One](https://github.com/DavidG212/Davids_ePortfolio/blob/main/Artifact%20One/CS%20499%20Artifact%20One%20Narrative.pdf)" title="Go to Artifact One Narrative">Go to Artifact One</a> <br>
+<a href="https://github.com/DavidG212/Davids_ePortfolio/blob/main/Artifact%20One/CS%20499%20Artifact%20One%20Narrative.pdf" title="Go to Artifact One Narrative">Go to Artifact One</a> <br>
 Artifact One Narrative Here
 
 ## Artifact Two: Algorithms and Data Structure
