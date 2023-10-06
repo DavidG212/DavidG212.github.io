@@ -11,7 +11,7 @@ Link to Artifact One
 Artifact One Narrative Here
 
 ## Artifact Two: Algorithms and Data Structure
-Link to Artifact Two
+<a href="https://github.com/DavidG212/Davids_ePortfolio/tree/main/Artifact%20One" title="Go to Artifact One">Go to Artifact One</a>
 Artifact Two Narrative Here
 
 ## Artifact Three: Databases
