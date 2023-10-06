@@ -11,7 +11,7 @@ Code Review link here
 Artifact One Narrative Here
 
 ## Artifact Two: Algorithms and Data Structure
-Link
+<a href="https://github.com/DavidG212/Davids-ePortfolio/blob/main/Artifact%20Two/CS%20499%20Artifact%20Two%20Narrative.pdf" title="Go to Artifact Two Narrative">Go to Artifact Two Narrative</a> <br>
 Artifact Two Narrative Here
 
 ## Artifact Three: Databases
