@@ -7,11 +7,11 @@ Placeholder text
 Code Review link here
 
 ## Artifact One: Software Design and Engineering
-Link to Artifact One
+<a href="https://github.com/DavidG212/Davids_ePortfolio/tree/main/Artifact%20One" title="Go to Artifact One">Go to Artifact One</a> <br>
 Artifact One Narrative Here
 
 ## Artifact Two: Algorithms and Data Structure
-<a href="https://github.com/DavidG212/Davids_ePortfolio/tree/main/Artifact%20One" title="Go to Artifact One">Go to Artifact One</a> <br>
+Link
 Artifact Two Narrative Here
 
 ## Artifact Three: Databases
