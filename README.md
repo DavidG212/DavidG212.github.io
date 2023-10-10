@@ -15,5 +15,5 @@ Artifact One Narrative Here
 Artifact Two Narrative Here
 
 ## Artifact Three: Databases
-Link to Artifact Three
+<a href="https://github.com/DavidG212/Davids-ePortfolio/blob/main/Artifact%20Three/CS%20499%20Artifact%20Three%20Narrative.pdf" title="Go to Artifact Three Narrative">Go to Artifact Three Narrative</a> <br>
 Artifact Three Narrative Here
