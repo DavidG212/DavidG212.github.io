@@ -4,7 +4,7 @@
 Placeholder text
 
 ## Code Review
-<a href="https://drive.google.com/file/d/1PIrLW0nMR8aIkrsgKZJmyZyZk_m-v-e0/view?usp=drive_link" title="Go to Artifact One Narrative">Click Here to Watch Code Review</a> <br>
+<a href="https://drive.google.com/file/d/1QbpwW9HIpHETJ2bnbCWc6YFDMLsQKisG/view?usp=drive_link" title="Go to Artifact One Narrative">Click Here to Watch Code Review</a> <br>
 
 ## Artifact One: Software Design and Engineering
 <a href="https://github.com/DavidG212/Davids_ePortfolio/blob/main/Artifact%20One/CS%20499%20Artifact%20One%20Narrative.pdf" title="Go to Artifact One Narrative">Go to Artifact One Narrative</a> <br>
