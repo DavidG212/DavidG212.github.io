@@ -10,6 +10,7 @@ Below are three enhanced artifacts that I chose to include for this portfolio. E
 
 ## Code Review
 <a href="https://drive.google.com/file/d/1QbpwW9HIpHETJ2bnbCWc6YFDMLsQKisG/view?usp=drive_link" title="Go to Artifact One Narrative">Click Here to Watch Code Review</a> <br>
+This code review covers the relevant code in relation to the three artifacts.
 
 ## Artifact One: Software Design and Engineering
 <a href="https://github.com/DavidG212/Davids_ePortfolio/blob/main/Artifact%20One/CS%20499%20Artifact%20One%20Narrative.pdf" title="Go to Artifact One Narrative">Go to Artifact One Narrative</a> <br>
