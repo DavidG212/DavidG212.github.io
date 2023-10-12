@@ -13,6 +13,7 @@ Below are three enhanced artifacts that I chose to include for this portfolio. E
 This code review covers the relevant code in relation to the three artifacts.
 
 ## Artifact One: Software Design and Engineering
+<center><img src="SDaE.jpg"></center>
 <a href="https://github.com/DavidG212/Davids_ePortfolio/blob/main/Artifact%20One/CS%20499%20Artifact%20One%20Narrative.pdf" title="Go to Artifact One Narrative">Go to Artifact One Narrative</a> <br>
 This first artifact is a Java inventory management mobile application that contains a fully functioning login system and a revamped user interface that stands out from the original. The artifact narrative reflects on why I chose this application to showcase my abilities within software design and engineering.
 
