@@ -20,12 +20,12 @@ This first artifact is a Java inventory management mobile application that conta
 ## Artifact Two: Algorithms and Data Structure
 <img src="DSA.png" alt="AlgoAndDataStruct" width="250">
 <a href="https://github.com/DavidG212/Davids-ePortfolio/blob/main/Artifact%20Two/CS%20499%20Artifact%20Two%20Narrative.pdf" title="Go to Artifact Two Narrative">Go to Artifact Two Narrative</a> <br>
-This second artifact is a C++ program that allows a university advisor to show a list of current courses and search up specific courses. The enhancements I made to this program now allows adivsors to insert their own custom course to the list. This was accomplished by implementing an insertion algorithm that writes the courses to a txt file and then the txt file contents are loaded into a vector and displayed when instructed. The artifact narrative elaborates on why this artifact was chosen and how it applies to my knowledge of algorithms and data structures.
+This second artifact is a C++ program that allows a university advisor to show a list of current courses and search up specific courses. The enhancements I made to this program now allows advisors to insert their own custom course to the list. This was accomplished by implementing an insertion algorithm that writes the courses to a txt file and then the txt file contents are loaded into a vector and displayed when instructed. The artifact narrative elaborates on why this artifact was chosen and how it applies to my knowledge of algorithms and data structures.
 
 ## Artifact Three: Databases
 <img src="db.png" alt="Databases" width="250">
 <a href="https://github.com/DavidG212/Davids-ePortfolio/blob/main/Artifact%20Three/CS%20499%20Artifact%20Three%20Narrative.pdf" title="Go to Artifact Three Narrative">Go to Artifact Three Narrative</a> <br>
-This third artifact is a full stack website called Travlr which lists traveling trips. The admin is able to add and edit trips that is saved within a database. There is a login function that validates user input, registers users, saves that information, and of course logs the user in when apporpriate. The artifact narrative talks about the reason for choosing this project and examples of some of the functions. These will show my experience when working on a full stack project.
+This third artifact is a full stack website called Travlr which lists traveling trips. The admin can add and edit trips that are saved within a database. There is a login function that validates user input, registers users, saves that information, and of course logs the user in when appropriate. The artifact narrative talks about the reason for choosing this project and examples of some of the functions. These will show my experience when working on a full stack project.
 
 <div style="text-align: right;">
     <a href="#">
