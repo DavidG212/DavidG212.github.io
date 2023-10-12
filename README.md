@@ -17,7 +17,7 @@ This code review covers the relevant code in relation to the three artifacts.
 This first artifact is a Java inventory management mobile application that contains a fully functioning login system and a revamped user interface that stands out from the original. The artifact narrative reflects on why I chose this application to showcase my abilities within software design and engineering.
 
 ## Artifact Two: Algorithms and Data Structure
-<center><img src="DSA.png"></center>
+<img src="DSA.png" alt="AlgoAndDataStruct-Logo" width="250">
 <a href="https://github.com/DavidG212/Davids-ePortfolio/blob/main/Artifact%20Two/CS%20499%20Artifact%20Two%20Narrative.pdf" title="Go to Artifact Two Narrative">Go to Artifact Two Narrative</a> <br>
 This second artifact is a C++ program that allows a university advisor to show a list of current courses and search up specific courses. The enhancements I made to this program now allows adivsors to insert their own custom course to the list. This was accomplished by implementing an insertion algorithm that writes the courses to a txt file and then the txt file contents are loaded into a vector and displayed when instructed. The artifact narrative elaborates on why this artifact was chosen and how it applies to my knowledge of algorithms and data structures.
 
