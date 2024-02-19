@@ -29,6 +29,6 @@ This third artifact is a full stack website called Travlr which lists traveling 
 
 <div style="text-align: right;">
     <a href="#">
-        <button style="font-size: 10px; font-weight: 500; background: #BF40BF; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #0000; padding: 5px 5px;">Back to Top &#8593;</button>
+        <button style="font-size: 10px; font-weight: 500; background: #BF40BF; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #00000; padding: 5px 5px;">Back to Top &#8593;</button>
     </a>
 </div>
