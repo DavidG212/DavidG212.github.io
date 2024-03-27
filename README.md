@@ -27,8 +27,3 @@ This second artifact is a C++ program that allows a university advisor to show a
 <a href="https://github.com/DavidG212/Davids-ePortfolio/blob/main/Artifact%20Three/CS%20499%20Artifact%20Three%20Narrative.pdf" title="Go to Artifact Three Narrative">Go to Artifact Three Narrative</a> <br>
 This third artifact is a full stack website called Travlr which lists traveling trips. The admin can add and edit trips that are saved within a database. There is a login function that validates user input, registers users, saves that information, and of course logs the user in when appropriate. The artifact narrative talks about the reason for choosing this project and examples of some of the functions. These will show my experience when working on a full stack project.
 
-<div style="text-align: right;">
-    <a href="#">
-        <button style="font-size: 10px; font-weight: 500; background: #BF40BF; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #00000; padding: 5px 5px;">Back to Top &#8593;</button>
-    </a>
-</div>
